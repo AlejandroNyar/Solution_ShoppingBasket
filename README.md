@@ -50,6 +50,10 @@ Total: 18 kg
 
 - The data is passed directly to the service instead of being retrieved from a database.
 - This keeps the focus on the selection algorithm as required by the assignment.
+
+- Items are assumed to always have a valid weight.
+- Validation of input data is considered out of scope for this assignment.
+  
 - The solution prioritizes readability and maintainability over complexity.
 
 ---
